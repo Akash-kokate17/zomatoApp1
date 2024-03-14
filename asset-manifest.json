@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/zomatoApp1/static/css/main.ba5a67b6.css",
+    "main.js": "/zomatoApp1/static/js/main.489e6f07.js",
+    "static/js/453.ff578ce3.chunk.js": "/zomatoApp1/static/js/453.ff578ce3.chunk.js",
+    "static/media/notFound.jpg": "/zomatoApp1/static/media/notFound.6782cc2c8633a338fe7d.jpg",
+    "static/media/bootstrap-icons.woff?": "/zomatoApp1/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/zomatoApp1/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/zomatoApp1/index.html",
+    "main.ba5a67b6.css.map": "/zomatoApp1/static/css/main.ba5a67b6.css.map",
+    "main.489e6f07.js.map": "/zomatoApp1/static/js/main.489e6f07.js.map",
+    "453.ff578ce3.chunk.js.map": "/zomatoApp1/static/js/453.ff578ce3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba5a67b6.css",
+    "static/js/main.489e6f07.js"
+  ]
+}
